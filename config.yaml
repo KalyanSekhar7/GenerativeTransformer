@@ -1,0 +1,4 @@
+model:
+  batch_size: 16
+  lr : 0.001
+  block_size : 8
